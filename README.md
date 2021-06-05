@@ -1,4 +1,4 @@
 # zlibtool
 Tool to zlib/unzlib Pro Evolution Soccer compressed files
 
-![alt text](https://raw.githubusercontent.com/cpkprotectiontoolkit/zlibtool/src/img/showcase.png)
+![alt text](https://github.com/CPKProtectionToolkit/zlibtool/raw/main/src/img/showcase.jpg)
